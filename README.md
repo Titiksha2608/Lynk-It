@@ -2,14 +2,13 @@
 
 Highlights:
 
-- 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
-- 🎃 Authentication && Authorization with JWT
-- 👾 Real-time messaging with Socket.io
-- 🚀 Online user status
-- 👌 Global state management with Zustand
-- 🐞 Error handling both on the server and on the client
-- ⭐ At the end Deployment like a pro for FREE!
-- ⏳ And much more!
+- 🛠 Tech Stack: MERN (MongoDB, Express, React, Node.js) + Socket.io
+- 🎨 UI: TailwindCSS + DaisyUI for a beautiful, responsive design
+- 🔐 Authentication & Authorization: Secure login using JWT
+- 💬 Real-Time Messaging: Instant chats powered by Socket.io
+- 🟢 Online User Status: See who's online, live
+- 🌍 Global State Management: Simplified state using Zustand
+- 🧯 Robust Error Handling: Clean client & server-side feedback
 
 ### Setup .env file
 
@@ -36,3 +35,7 @@ npm run build
 ```shell
 npm start
 ```
+
+
+### Contributions
+Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
